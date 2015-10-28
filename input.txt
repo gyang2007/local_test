@@ -1,0 +1,4 @@
+# 数据表文件，完整的绝对路径，具体指定到文件，例如：c:\words.xls
+excel=/home/gyang/words.xls
+# 日志输出路径，指定到一个文件夹，例如：c:\log
+logFilePath=/home/gyang/tutu/log
