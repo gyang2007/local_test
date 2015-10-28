@@ -1,0 +1,37 @@
+http://www.tutumet.com/education/question/saveQuestionEngVc
+
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip,deflate
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Connection:keep-alive
+Content-Length:490
+Content-Type:application/json;charset=UTF-8
+Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S
+Host:www.tutumet.com
+Origin:http://www.tutumet.com
+Referer:http://www.tutumet.com/education/question/engVc
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+X-Requested-With:XMLHttpRequest
+
+
+-H 'Accept:*/*' -H 'Accept-Encoding:gzip,deflate' -H 'Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4' -H 'Connection:keep-alive' -H 'Content-Length:13' -H 'Content-Type:application/x-www-form-urlencoded; charset=UTF-8' -H 'Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S
+Host:www.tutumet.com' -H 'Origin:http://www.tutumet.com' -H 'Referer:http://www.tutumet.com/education/question/engRj' -H 'User-Agent:Mozilla/5.0 (X11; Linux x86_64)' -H 'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36' -H 'X-Requested-With:XMLHttpRequest'
+
+curl -H 'Accept:*/*' -H 'Accept-Encoding:gzip,deflate' -H 'Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4' -H 'Connection:keep-alive' -H 'Content-Length:13' -H 'Content-Type:application/x-www-form-urlencoded; charset=UTF-8' -H 'Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S
+Host:www.tutumet.com' -H 'Origin:http://www.tutumet.com' -H 'Referer:http://www.tutumet.com/education/question/engRj' -H 'User-Agent:Mozilla/5.0 (X11; Linux x86_64)' -H 'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36' -H 'X-Requested-With:XMLHttpRequest' -d 'id=651AQia0ty' http://www.tutumet.com/education/question/cqEngRj
+
+
+
+Accept:*/*
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Connection:keep-alive
+Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S
+Host:www.tutumet.com
+Referer:http://www.tutumet.com/education/question/engVc
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+X-Requested-With:XMLHttpRequest
+
+-H 'Accept:*/*' -H 'Accept-Encoding:gzip,deflate,sdch' -H 'Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4' -H 'Connection:keep-alive' -H 'Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S' -H 'Host:www.tutumet.com' -H 'Referer:http://www.tutumet.com/education/question/engVc' -H 'User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36' -H 'X-Requested-With:XMLHttpRequest'
+
+curl -H 'Accept:*/*' -H 'Accept-Encoding:gzip,deflate,sdch' -H 'Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4' -H 'Connection:keep-alive' -H 'Cookie:_ttyk_=1DC5AB8D46800B869DA99077864D1985; _ttyk_session_=h+wD1Qn2aQuSv3OphjUt10ZLRp+gpF9S' -H 'Host:www.tutumet.com' -H 'Referer:http://www.tutumet.com/education/question/engVc' -H 'User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36' -H 'X-Requested-With:XMLHttpRequest' http://www.tutumet.com/education/question/addEngVc

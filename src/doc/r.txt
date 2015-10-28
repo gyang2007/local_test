@@ -1,0 +1,85 @@
+<form  class="form-horizontal">
+    <input type="hidden" value="US4sGdrxww" id="questionId"/>
+    <input type="hidden" value="NFLTSP-VC-00061" id="code"/>
+    <input type="hidden" value="61" id="num"/>
+    <div class="form-group">
+        <label class="col-sm-2 col-xs-12 control-label">
+            题号
+        </label>
+        <div class="col-sm-8 col-xs-12">
+            <p class="form-control-static" id="codeP">
+                NFLTSP-VC-00061</p>
+
+        </div>
+        <div class="col-sm-2">
+            <i class="i-icon i-icon-nproblem pink">&#xe824;</i>
+            <i class="i-icon i-icon-paper i-icon-gray">&#xe816;</i>
+                </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2 col-xs-12 control-label">
+            题干
+        </label>
+        <div class="col-sm-10 col-xs-12">
+            <textarea class="form-control" rows="5" placeholder="题干" id="stem"></textarea>
+        </div>
+    </div>
+    <div id="opdiv">
+        <div class="form-group oplist" id="twfyt8qiOR">
+                <label class="col-sm-2 col-xs-12 control-label">
+                    选项1</label>
+                <div class="col-sm-9 col-xs-9 contentDiv">
+                    <input type="text" value="" class="form-control opcontent" placeholder="选项1">
+                </div>
+                <div class="col-xs-1  checkbox">
+                    <label>
+                        <input name="correct" class="twfyt8qiOR" type="checkbox" value="twfyt8qiOR">
+                    </label>
+                </div>
+            </div>
+        <div class="form-group oplist" id="yTMVlURcO6">
+                <label class="col-sm-2 col-xs-12 control-label">
+                    选项2</label>
+                <div class="col-sm-9 col-xs-9 contentDiv">
+                    <input type="text" value="" class="form-control opcontent" placeholder="选项2">
+                </div>
+                <div class="col-xs-1  checkbox">
+                    <label>
+                        <input name="correct" class="yTMVlURcO6" type="checkbox" value="yTMVlURcO6">
+                    </label>
+                </div>
+            </div>
+        <div class="form-group oplist" id="7qsruX0Uwd">
+                <label class="col-sm-2 col-xs-12 control-label">
+                    选项3</label>
+                <div class="col-sm-9 col-xs-9 contentDiv">
+                    <input type="text" value="" class="form-control opcontent" placeholder="选项3">
+                </div>
+                <div class="col-xs-1  checkbox">
+                    <label>
+                        <input name="correct" class="7qsruX0Uwd" type="checkbox" value="7qsruX0Uwd">
+                    </label>
+                </div>
+            </div>
+        <div class="form-group oplist" id="6H45Uhd6WS">
+                <label class="col-sm-2 col-xs-12 control-label">
+                    选项4</label>
+                <div class="col-sm-9 col-xs-9 contentDiv">
+                    <input type="text" value="" class="form-control opcontent" placeholder="选项4">
+                </div>
+                <div class="col-xs-1  checkbox">
+                    <label>
+                        <input name="correct" class="6H45Uhd6WS" type="checkbox" value="6H45Uhd6WS">
+                    </label>
+                </div>
+            </div>
+        </div>
+    <div class="form-group">
+        <label class="col-lg-2 col-md-2 col-sm-2 col-xs-12 control-label">
+            解析
+        </label>
+        <div class="col-lg-10  col-md-10  col-sm-10 col-xs-12">
+            <textarea class="form-control" id="analytical" rows="5" placeholder="解析"></textarea>
+        </div>
+    </div>
+</form>
